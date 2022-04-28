@@ -15,6 +15,8 @@ new => have-local-offer => stable => have-remote-offer => stable
 - [ ] Safari video on Firefox
 - [ ] Safari audio on Firefox
 
+# SDP
+
 <details>
 <summary>Firefox SDP (local)</summary>
 
