@@ -1,7 +1,7 @@
 # Browsers versions
 
 - Chrome: 100.0.4896.127
-- Safari: 15.2
+- Safari iOS: 15.2
 
 # Signaling state
 ```
