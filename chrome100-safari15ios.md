@@ -15,6 +15,8 @@ new => have-local-offer => stable => have-remote-offer => stable
 - [ ] Safari video on Chrome
 - [ ] Safari audio on Chrome
 
+# SDP
+
 <details>
 <summary>Chrome SDP (local)</summary>
 
