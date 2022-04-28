@@ -1,6 +1,6 @@
 # Browsers versions
 
-- Chrome: 99.0.1
+- Chrome: 100.0.4896.127
 - Safari MacOS: 15.1 (17612.2.9.1.20)
 
 # Signaling state
