@@ -8,6 +8,8 @@ new => have-local-offer => stable => have-remote-offer => stable
 
 **The bug only happens when the peer 1 is any browser in any OS except iOS and the second one Safari/Firefox/Chrome on iOS, and send tracks async.**
 
+Webkit Bugzilla: https://bugs.webkit.org/show_bug.cgi?id=239882
+
 # How to reproduce it
 
 1. Get user media with audio and video
