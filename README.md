@@ -25,3 +25,15 @@ A human-readable example is the case when Alice calls Bob. Previous to Bob answe
 ---
 
 If you try send track synchronous between peers works perfect and transceivers direction is `sendrecv`. So, the first conclusion is meanwhile the signaling process is in the process the transceivers' direction will be set as `sendrecv` if you send tracks at the same time, not asynchronous.
+
+# SDP examples
+- Chrome 100 and Safari 15.2 iOS ([here](chrome100-safari15ios.md)) ❌
+- Chrome 100 and Safari 15.1 macOS ([here](chrome100-safari15mac.md)) ✅
+- Firefox 99 and Safari 15.2 iOS ([here](firefox99-safari15ios.md)) ❌
+- Firefox 99 and Safari 14.1 macOS ([here](firefox99-safari14mac.md)) ✅
+
+Also, was tested Chrome and Firefox in iOS with the same results as failed examples.
+
+# Conclusion
+
+Only happens in iOS when sending tracks between peers asynchronous, first from not iOS peer and then from the iOS peer.
